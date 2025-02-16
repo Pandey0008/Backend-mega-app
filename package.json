@@ -1,0 +1,20 @@
+{
+  "name": "backend-mega-app",
+  "version": "1.0.0",
+  "description": "a backend mega-app",
+  "homepage": "https://github.com/Pandey0008/Backend-mega-app#readme",
+  "bugs": {
+    "url": "https://github.com/Pandey0008/Backend-mega-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandey0008/Backend-mega-app.git"
+  },
+  "license": "ISC",
+  "author": "Shivansh Pandey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
